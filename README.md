@@ -47,6 +47,11 @@ git push origin feature/NovoRecurso
 # Crie um novo Pull Request
 ```
 
+## Linguagem
+
+Este projeto foi desenvolvido na linguagem de programação **Java**.
+
+
 ## Agradecimentos
 
 Agradeço a todos e à comunidade de código aberto por tornarem este projeto possível.
